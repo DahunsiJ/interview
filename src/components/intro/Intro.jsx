@@ -57,7 +57,7 @@ const Intro = () => {
         </div>
         
 
-        <div className="container">
+            <div className="container">
                 
                 <div className="card featured">
                   <div className="top">
@@ -104,31 +104,31 @@ const Intro = () => {
                   <div className="center">
                     <small className="smallest">Abuja | Multifamily .</small> 
                     <br />
-                    <h6>Lambo Homes</h6>
+                    <h6>Efab Estate Properties</h6>
                     <div className="pear">
-                      <small className="smallest">Token Value</small>
+                      <small className="smallest">Investment Type</small>
                       <span>NGN1,000,000</span>
                     </div>
                     <hr />
                     <div className="pear">
-                      <small className="smallest">Property Owners</small>
-                      <span>10</span>
+                      <small className="smallest">Property Value</small>
+                      <span>NGN25,000,000</span>
                     </div>
                     <hr />
                     <div className="pear">
-                      <small className="smallest">Minimum Investment</small>
-                      <span>1</span>
+                      <small className="smallest">Investor</small>
+                      <span>78</span>
                     </div>
                     <hr />
                     <div className="pear">
-                      <small className="smallest">Token Traded</small>
-                      <span>50</span>
+                      <small className="smallest">Total Raised</small>
+                      <span>NGN10,000,000</span>
                     </div>
                     <hr />
                   </div>
               </div>
 
-              <div className="card featured">
+                <div className="card featured">
                   <div className="top">
                     <MonetizationOnOutlinedIcon className="dolla"/>
                       <img src="assets/house3.png" 
@@ -136,38 +136,34 @@ const Intro = () => {
                       alt="" />
                   </div>
                   <div className="center">
-                    <small className="smallest">Abuja | Multifamily .</small> 
-                    <br />
                     <h6>Lambo Homes</h6>
+                    <small className="smallest">12,000ˀ.</small> 
                     <div className="pear">
                       <small className="smallest">Token Value</small>
                       <span>NGN1,000,000</span>
                     </div>
                     <hr />
                     <div className="pear">
-                      <small className="smallest">Property Owners</small>
-                      <span>10</span>
+                      <small className="smallest">Investment Type</small>
+                      <span>Sales</span>
                     </div>
                     <hr />
                     <div className="pear">
-                      <small className="smallest">Minimum Investment</small>
-                      <span>1</span>
+                      <small className="smallest">Location</small>
+                      <span>Abuja</span>
                     </div>
                     <hr />
                     <div className="pear">
-                      <small className="smallest">Token Traded</small>
-                      <span>50</span>
+                      <small className="smallest">Property Type</small>
+                      <span>Duplex</span>
                     </div>
                     <hr />
                   </div>
-                  
-              </div>
+                </div>
 
 
-          </div>
-
-
-          <div className="container">
+          
+          
                 
                 <div className="card featured">
                   <div className="top">
@@ -201,7 +197,7 @@ const Intro = () => {
                     </div>
                     <hr />
                   </div>
-              </div>
+                </div>
 
 
               <div className="card featured">

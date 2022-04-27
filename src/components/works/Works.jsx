@@ -41,7 +41,7 @@ export default function Works() {
           </div>
       </div>
 
-      <div className="center">
+      <div className="centery">
         <div className="itemContainer">
             <a href="/">Lorem ipsum</a>
         </div>
